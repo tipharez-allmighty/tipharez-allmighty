@@ -27,7 +27,6 @@
   <img src="https://skillicons.dev/icons?i=redis" width="48" />
   <img src="https://skillicons.dev/icons?i=kubernetes" width="48" />
   <br />
-  <img src="icons/duckdb.svg" width="48" />
   <img src="icons/kafka.svg" width="48" />
   <img src="https://skillicons.dev/icons?i=docker" width="48" />
   <img src="icons/podman.svg" width="48" />
