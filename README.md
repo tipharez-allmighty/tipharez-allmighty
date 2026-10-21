@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Artem+%F0%9F%91%8B;Backend+Engineer+%C2%B7+Python+%26+Go;Data+analysis+%C2%B7+NLP+%C2%B7+social+science" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Artem+%F0%9F%91%8B;Backend+Engineer" alt="Typing SVG" />
 
 📍 Taipei, Taiwan &nbsp;·&nbsp; 🇺🇦 Ukrainian &nbsp;·&nbsp; 🗣️ EN · 中文 (HSK 6) · UA · RU
 
@@ -21,18 +21,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,go,fastapi,postgres,redis,mongodb,kubernetes,docker,podman,aws,azure,neovim,arch,debian&perline=7" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
 
 ### 📈 Stats
