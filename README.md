@@ -11,13 +11,17 @@
 
 </div>
 
-### 🧑‍💻 About me
+<h3 align="center">🧑‍💻 About me</h3>
 
-- ⚙️ **Backend engineer, 4+ years**: microservices, APIs, data-intensive distributed systems and RAG database architectures
-- 📊 **Data analysis & NLP**: PhD in Political Science at National Taiwan University, analyzing social media and survey data
-- 🐧 Linux enthusiast
+<div align="center">
 
-### 🛠️ Stack
+⚙️ **Backend engineer, 4+ years**: microservices, APIs, data-intensive distributed systems and RAG database architectures<br />
+📊 **Data analysis & NLP**: PhD in Political Science at National Taiwan University, analyzing social media and survey data<br />
+🐧 Linux enthusiast
+
+</div>
+
+<h3 align="center">🛠️ Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py" width="48" />
