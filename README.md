@@ -20,7 +20,19 @@
 ### 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,go,fastapi,postgres,redis,mongodb,kubernetes,docker,podman,aws,azure,neovim,arch,debian&perline=7" />
+  <img src="https://skillicons.dev/icons?i=py" width="48" />
+  <img src="https://skillicons.dev/icons?i=go" width="48" />
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" />
+  <img src="https://skillicons.dev/icons?i=redis" width="48" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="48" />
+  <br />
+  <img src="icons/neo4j.svg" width="48" />
+  <img src="https://skillicons.dev/icons?i=kafka" width="48" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" />
+  <img src="https://skillicons.dev/icons?i=podman" width="48" />
+  <img src="https://skillicons.dev/icons?i=neovim" width="48" />
+  <img src="https://skillicons.dev/icons?i=arch" width="48" />
 </p>
 
 ### 📈 Stats
