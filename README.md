@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Artem+%F0%9F%91%8B;Backend+Engineer+%C2%B7+Python+%26+Go;Distributed+systems+nerd;Data+analysis+%C2%B7+NLP+%C2%B7+social+science" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Artem+%F0%9F%91%8B;Backend+Engineer+%C2%B7+Python+%26+Go;Data+analysis+%C2%B7+NLP+%C2%B7+social+science" alt="Typing SVG" />
 
 📍 Taipei, Taiwan &nbsp;·&nbsp; 🇺🇦 Ukrainian &nbsp;·&nbsp; 🗣️ EN · 中文 (HSK 6) · UA · RU
 
@@ -13,11 +13,9 @@
 
 ### 🧑‍💻 About me
 
-- ⚙️ **Backend engineer, 4+ years**: microservices, APIs and messaging for AI products (chat + voice support platform, RAG systems, payments, real-time market data)
-- 📬 Built a unified push notification system (APNs, FCM, Web Push) handling **200k+ messages/month**
-- 🕸️ Into **distributed systems**: writing [Raft](https://github.com/tipharez-allmighty/toy-raft) and a [Kafka clone](https://github.com/tipharez-allmighty/gafkonian-go) in Go for fun
-- 📊 **Data analysis & NLP**: PhD in Political Science at National Taiwan University. I scrape, label and model social media and survey data
-- 🐧 Arch Linux + Neovim, shipping to Hetzner
+- ⚙️ **Backend engineer, 4+ years**: microservices, APIs, data-intensive distributed systems and RAG
+- 📊 **Data analysis & NLP**: PhD in Political Science at National Taiwan University, analyzing social media and survey data
+- 🐧 Linux enthusiast
 
 ### 🛠️ Stack
 
@@ -35,15 +33,6 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-</p>
-
-### 🚀 Featured projects
-
-<p align="center">
-  <a href="https://github.com/tipharez-allmighty/toy-raft"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tipharez-allmighty&repo=toy-raft&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/tipharez-allmighty/gafkonian-go"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tipharez-allmighty&repo=gafkonian-go&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/tipharez-allmighty/youtube-scraper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tipharez-allmighty&repo=youtube-scraper&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/tipharez-allmighty/taiwan-ukraine-social-media"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tipharez-allmighty&repo=taiwan-ukraine-social-media&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 ### 📈 Stats
