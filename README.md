@@ -29,7 +29,7 @@
   <br />
   <img src="icons/kafka.svg" width="48" />
   <img src="https://skillicons.dev/icons?i=docker" width="48" />
-  <img src="icons/podman.svg" width="48" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" />
   <img src="https://skillicons.dev/icons?i=neovim" width="48" />
   <img src="https://skillicons.dev/icons?i=arch" width="48" />
 </p>
