@@ -29,18 +29,8 @@
   <br />
   <img src="icons/kafka.svg" width="48" />
   <img src="https://skillicons.dev/icons?i=docker" width="48" />
-  <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" />
+  <img src="icons/elasticsearch.svg" width="48" />
+  <img src="https://skillicons.dev/icons?i=grafana" width="48" />
   <img src="https://skillicons.dev/icons?i=neovim" width="48" />
   <img src="https://skillicons.dev/icons?i=arch" width="48" />
-</p>
-
-### 📈 Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tipharez-allmighty&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tipharez-allmighty&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tipharez-allmighty&theme=tokyonight&hide_border=true" />
 </p>
