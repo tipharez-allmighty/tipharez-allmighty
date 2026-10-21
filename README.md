@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About me
 
-- ⚙️ **Backend engineer, 4+ years**: microservices, APIs, data-intensive distributed systems and RAG
+- ⚙️ **Backend engineer, 4+ years**: microservices, APIs, data-intensive distributed systems and RAG database architectures
 - 📊 **Data analysis & NLP**: PhD in Political Science at National Taiwan University, analyzing social media and survey data
 - 🐧 Linux enthusiast
 
