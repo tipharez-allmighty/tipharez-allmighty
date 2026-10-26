@@ -15,7 +15,7 @@
 
 <div align="left">
 
-⚙️ **Backend engineer, 4+ years**: microservices, APIs, data-intensive distributed systems and RAG database architectures<br />
+⚙️ **Backend engineer, 5+ years**: microservices, APIs, data-intensive distributed systems and RAG database architectures<br />
 📊 **Data analysis & NLP**: PhD in Political Science at National Taiwan University, analyzing social media and survey data<br />
 
 </div>
